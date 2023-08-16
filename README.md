@@ -13,4 +13,11 @@ Os orientadores foram os professores: Douglas Emiliano Januário Monteiro, Luiz 
 
 O código base utilizado como ponto de partida para este projeto pode ser encontrado [aqui](https://iotcircuithub.com/mq2-gas-sensor-rain-detection-blynk-notification/). No entanto, nosso grupo acabou implementando melhorias para atender às demandas específicas do projeto.
 
+## Projeto Concluído
+
+Neste [link](https://drive.google.com/file/d/1r6AOMB_8XKl_gstYCEGPdafuMM_8_XSh/view?usp=sharing) você encontra o vídeo do projeto, no qual pode assistir a programação e a montagem do protótipo. E logo abaixo a imagem do projeto finalizado.
+
+<div align="center">
+<img src="https://github.com/Matheusr77/Sensor_de_Gases_ESP8266/assets/113852525/53a50f5b-8e8d-4f2c-9ab1-45fb9a48f066" width="700px" />
+</div>
 
