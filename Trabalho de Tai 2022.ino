@@ -21,8 +21,8 @@
 #define BLYNK_AUTH_TOKEN "AoHX0Ft7dSVziRnl8RKIWeQzN1RGreLQ"
 
 // Credenciais WiFi.
-char ssid[] = "laíssa";
-char pass[] = "89lu89lu";
+char ssid[] = "Nome da rede WiFi";
+char pass[] = "Senha da rede WiFi";
 
 // Definir o GPIO conectado com sensores e LEDs
 #define sensor        A0
