@@ -16,9 +16,9 @@
  **********************************************************************************/
 
 // CONFIGURAÇÃO DE FIRMWARE
-#define BLYNK_TEMPLATE_ID "TMPLgB2FbXaP"
-#define BLYNK_DEVICE_NAME "Trabalho de Tai 2022"
-#define BLYNK_AUTH_TOKEN "AoHX0Ft7dSVziRnl8RKIWeQzN1RGreLQ"
+#define BLYNK_TEMPLATE_ID " "
+#define BLYNK_DEVICE_NAME " "
+#define BLYNK_AUTH_TOKEN " "
 
 // Credenciais WiFi.
 char ssid[] = "Nome da rede WiFi";
